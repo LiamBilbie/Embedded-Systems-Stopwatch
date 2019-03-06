@@ -1,2 +1,2 @@
-# 3375-Lab-2
+# Embedded Systems Stopwatch
 Assn 2
